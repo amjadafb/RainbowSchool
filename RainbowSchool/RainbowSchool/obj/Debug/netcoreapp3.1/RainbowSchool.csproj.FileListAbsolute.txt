@@ -1,0 +1,13 @@
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/bin/Debug/netcoreapp3.1/RainbowSchool.deps.json
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/bin/Debug/netcoreapp3.1/RainbowSchool.runtimeconfig.json
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/bin/Debug/netcoreapp3.1/RainbowSchool.runtimeconfig.dev.json
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/bin/Debug/netcoreapp3.1/RainbowSchool.dll
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/bin/Debug/netcoreapp3.1/RainbowSchool.pdb
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.csproj.AssemblyReference.cache
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.AssemblyInfoInputs.cache
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.AssemblyInfo.cs
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.csproj.CoreCompileInputs.cache
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.dll
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.pdb
+/Users/amjaadb/Projects/RainbowSchool/RainbowSchool/obj/Debug/netcoreapp3.1/RainbowSchool.genruntimeconfig.cache

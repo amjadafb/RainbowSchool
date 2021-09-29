@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/amjaadb/.dotnet/store/|arch|/|tfm|",
+      "/Users/amjaadb/.nuget/packages"
+    ]
+  }
+}
